@@ -1,4 +1,4 @@
-Sih-Indian-Culture
+
 
 
 # Sih-Indian-Culture 🌏
@@ -17,6 +17,12 @@ A simple and visually appealing website built using HTML and CSS to showcase the
 
 ---
 
+## 🛠 Technologies Used
+
+- **HTML5** – for semantic page structure
+- **CSS3** – for styling, layout, and animations
+
+---
 
 
 
