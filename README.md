@@ -6,6 +6,9 @@
 
 # Sih-Indian-Culture 🌏
 
+
+
+
 A simple and visually appealing website built using HTML and CSS to showcase the rich and diverse culture of India. This project serves as a front-end design demonstration highlighting various aspects of Indian traditions, festivals, art, and heritage.
 
 ---
